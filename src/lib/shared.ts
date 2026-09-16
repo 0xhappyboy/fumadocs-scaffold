@@ -4,7 +4,7 @@ export const docsImageRoute = '/og/docs';
 export const docsContentRoute = '/llms.mdx/docs';
 
 export const gitConfig = {
-  user: 'fumadocs-scaffold',
+  user: '0xhappyboy',
   repo: 'fumadocs-scaffold',
   branch: 'main',
 };
